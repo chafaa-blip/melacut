@@ -1,0 +1,1 @@
+Publier tous les fichiers du dossier sur un hébergement HTTPS statique. Ouvrir index.html dans Safari, partager, Sur l’écran d’accueil, Ajouter. Ouvrir depuis l’icône avec Internet, attendre le statut Cache hors connexion prêt, puis tester en mode avion. Exporter régulièrement les projets JSON : iOS peut supprimer les données locales. Aucun hébergement fourni.
